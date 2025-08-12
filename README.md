@@ -79,4 +79,4 @@ This project focuses on **UI development only**. No backend functionality or aut
 ## 👨‍💻 Author
 
 **Dalia Ramadan Ahmed**
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/dalia-ramadan-ahmed-435912252)
+- LinkedIn: [Your LinkedIn]([www.linkedin.com/in/dalia-ramadan-ahmed-435912252](https://www.linkedin.com/in/dalia-ramadan-ahmed-435912252/))
